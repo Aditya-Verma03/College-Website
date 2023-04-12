@@ -4,7 +4,7 @@ This is a random college website consisting of 5 pages: home, contact, teachers,
 
 ## Technologies used
 
-This project was built using HTML, CSS, and JavaScript.
+This project was built using only HTML and CSS.
 
 ## Installation
 
